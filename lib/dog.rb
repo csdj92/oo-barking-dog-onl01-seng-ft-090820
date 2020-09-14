@@ -3,7 +3,7 @@ def name=(dog_name)
   @dog = dog_name
   end
 def name
-  @dog_name
+  @dog
   end
 def bark
   puts "woof!"
